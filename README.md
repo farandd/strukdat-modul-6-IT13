@@ -1,6 +1,6 @@
 # Sistem Manajemen Rute Bus
 
-Program ini memungkinkan Anda untuk menambahkan kota, mendefinisikan rute antar kota, dan menampilkan rute tersebut. Selain itu, program ini dapat menemukan dan menampilkan rute terpendek antara dua kota dan mencantumkan semua rute yang mungkin di antara keduanya.
+Program ini memungkinkan Anda untuk menambahkan kota, menampilkan rute antar kota, dan menampilkan rute tersebut. Selain itu, program ini dapat menemukan dan menampilkan rute terpendek antara dua kota dan mencantumkan semua rute yang mungkin di antara keduanya.
 
 ## Penjelasan Kelas
 
