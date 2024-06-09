@@ -132,6 +132,7 @@ Keluar...
 
 ## Penulis
 
+Anggota Kelompok IT13 :
 - Farand Febriasnyah (5027231084)
 - Muhamad Rizq Taufan (5027231021)
 - Benjamin Khawarizmi Habibi (5027231078)
